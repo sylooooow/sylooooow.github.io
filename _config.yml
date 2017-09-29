@@ -1,17 +1,17 @@
 # Site settings
-title: SH Blog
-SEOTitle: 书鸿的博客 | SH Blog
+title: Sylow Blog
+SEOTitle: 书鸿的博客 | Sylow Blog
 header-img: img/post-bg-desk.jpg
 email: sylooooow@gmail.com
 description: "巴山楚水凄凉地，responsibility！"
-keyword: "SH, SH Blog, 书鸿的博客, xiongshuhong, 熊书鸿, iOS, Apple, iPhone"
+keyword: "Sylow, Sylow Blog, 书鸿的博客, 熊书鸿, iOS, Apple, iPhone"
 url: "http://sylooooow.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/sylooooow/sylooooow.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "所见所领，皆是生活。"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -21,7 +21,7 @@ RSS: false
 weibo_username:     5591214865
 zhihu_username:     xiongshuhong
 github_username:    sylooooow
-facebook_username:  100021770311674
+#facebook_username:  100021770311674
 jianshu_username:   c1ae5af341c9
 #twitter_username:   sylooooow
 
