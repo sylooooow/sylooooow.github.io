@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Hello World!
 subtitle:    "\"所见所闻，皆是生活。\""
