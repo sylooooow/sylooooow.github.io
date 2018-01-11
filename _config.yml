@@ -1,9 +1,9 @@
 # Site settings
-title: Sylow Blog
-SEOTitle: 苏鸿的博客 | Sylow Blog
-header-img: img/post-bg-desk1.jpeg
+title: 书鸿与双全的小站
+SEOTitle: 书鸿 | 雷双全
+header-img: img/e8254583f5e936b3ad07ae5a10403f20.jpg
 email: sylooooow@gmail.com
-description: "巴山楚水凄凉地，responsibility！"
+description: " 一想到你，我这张丑脸上就泛起微笑。"
 keyword: "Sylow, Sylow Blog, Sylow的博客"
 url: "http://sylooooow.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/sylooooow/sylooooow.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "所见所领，皆是生活。"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "爱双全就像爱生命。 "
+sidebar-avatar: /img/20180111150024.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -95,13 +95,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "微博",
-        href: "http://weibo.com/u/6372763254"
+        title: "芝麻糊了吧",
+        href: "https://weibo.com/vicmengmeng"
     },{
-        title: "樱桃磁力",
-        href: "http://www.btcerise.org/"
+        title: "CUN",
+        href: "http://www.cnu.cc/"
     },{
-        title: "字幕搜索",
-        href: "http://subhd.com/"
+        title: "待添加",
+        href: ""
     }
 ]
